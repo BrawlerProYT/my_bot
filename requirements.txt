@@ -1,2 +1,6 @@
+python-dotenv
+rich
+inquirer
+pypresence
 discord.py
 asyncio
